@@ -25,7 +25,7 @@
                  '  <div class="col-12">' +
                     '   <div class="welcome-text text-center">' +
                       '     <h2 data-animation="fadeInLeft" style="color:white;">Vidya Varidhi Mahavidyalaya</h2>' +
-                       '    <a href="#" class="" style="color:#009fe3;background-color:white;padding: 5px;border-radius: 8px" data-animation="fadeInLeft" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
+                       '    <a href="#" class="" style="color:#FFB200;background-color:white;padding: 5px;border-radius: 8px" data-animation="fadeInLeft" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
                        '</div>' +
                    '</div>' +
               ' </div>' +
@@ -41,7 +41,7 @@
                    '  <div class="col-12">' +
                       '   <div class="welcome-text text-center">' +
                         '     <h2 data-animation="fadeInLeft" style="color:white;">Vidya Varidhi Mahavidyalaya</h2>' +
-                         '    <a href="#" class="" style="color:#009fe3;background-color:white;padding: 5px;border-radius: 8px" data-animation="fadeInLeft" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
+                         '    <a href="#" class="" style="color:#FFB200;background-color:white;padding: 5px;border-radius: 8px" data-animation="fadeInLeft" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
                          '</div>' +
                      '</div>' +
                 ' </div>' +
@@ -56,7 +56,7 @@
            '         <div class="col-12">' +
             '            <div class="welcome-text text-center">' +
              '               <h2 data-animation="fadeInUp" style="color:white;">Vidya Varidhi Mahavidyalaya</h2>' +
-              '              <a href="#" class="" style="color:#009fe3;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
+              '              <a href="#" class="" style="color:#FFB200;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
                '         </div>' +
                 '    </div>' +
                 '</div>' +
@@ -71,7 +71,7 @@
          '         <div class="col-12">' +
           '            <div class="welcome-text text-center">' +
            '               <h2 data-animation="fadeInUp" style="color:white;">Vidya Varidhi Mahavidyalaya</h2>' +
-            '              <a href="#" class="" style="color:#009fe3;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
+            '              <a href="#" class="" style="color:#FFB200;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
              '         </div>' +
               '    </div>' +
               '</div>' +
@@ -87,7 +87,7 @@
        '         <div class="col-12">' +
         '            <div class="welcome-text text-center">' +
          '               <h2 data-animation="fadeInUp" style="color:white;">Vidya Varidhi Mahavidyalaya</h2>' +
-          '              <a href="#" class="" style="color:#009fe3;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
+          '              <a href="#" class="" style="color:#FFB200;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
            '         </div>' +
             '    </div>' +
             '</div>' +
@@ -102,7 +102,7 @@
        '         <div class="col-12">' +
         '            <div class="welcome-text text-center">' +
          '               <h2 data-animation="fadeInUp" style="color:white;">Vidya Varidhi Mahavidyalaya</h2>' +
-          '              <a href="#" class="" style="color:#009fe3;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
+          '              <a href="#" class="" style="color:#FFB200;background-color:white;padding: 5px;border-radius: 8px;" data-animation="fadeInUp" data-delay="800ms">सा विद्या या विमुक्तये</a>' +
            '         </div>' +
             '    </div>' +
             '</div>' +
